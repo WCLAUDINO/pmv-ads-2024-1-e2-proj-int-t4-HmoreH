@@ -21,8 +21,16 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|Olívia Barbara de Jesus  | Quero um aplicativo de fácil uso para marcar minhas consultas           | Para conseguir usar o aplicativo sem precisar pedir ajuda.|
+|Olívia Barbara de Jesus     | Quero um aplicativo que me auxilie a conseguir um transporte até a clínica                 | Para conseguir chegar facilmente até o local do atendimento. |
+|Olívia Barbara de Jesus  | Quero consultas médicas com horários flexíveis na clínica           | Para poder agendar de acordo com meus compromissos e não ter que esperar muito tempo na sala de espera|
+|Olívia Barbara de Jesus| Desejo uma equipe médica simpática e atenciosa na clínica                | Para me sentir confortável e compreendida durante minhas consultas e exames |
+|Olívia Barbara de Jesus  | Quero instalações acessíveis na clínica, incluindo rampas e banheiros adaptados            | Para facilitar minha locomoção e garantir minha segurança|
+|Thomas Ferreira | Desejo receber orientações prévias sobre preparos para exames online na clínica| Para acompanhar minha saúde de forma rápida e conveniente, sem precisar esperar por correspondências |
+|Thomas Ferreira  | Quero agendar exames online na clínica| para evitar longas esperas e facilitar o planejamento dos meus compromissos|
+|Thomas Ferreira | Quero acessar meus resultados de exames pela internet na clínica | Para não esquecer compromissos importantes e garantir minha presença nos horários marcados |
+|Thomas Ferreira  | Quero poder acompanhar a disponibilidade de horários para consultas e exames online na clínica  | Para encontrar facilmente o melhor momento que se encaixe na minha agenda|
+|Thomas Ferreira      | Quero receber orientações sobre transporte acessível até a clínica. | Para garantir que posso chegar lá de forma segura e sem dificuldades de locomoção |
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
