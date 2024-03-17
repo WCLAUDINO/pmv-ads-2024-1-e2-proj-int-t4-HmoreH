@@ -1,5 +1,4 @@
-# Hub More Health
-### Democratizando saúde
+# Hub More Health - Democratizando saúde
 
 Análise e Desenvolvimento de Sistemas
 
