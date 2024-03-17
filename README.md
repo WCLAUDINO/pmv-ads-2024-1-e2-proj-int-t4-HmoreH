@@ -1,8 +1,9 @@
-# TÍTULO DO PROJETO
+# Hub More Health
+## Democratizando saúde
 
-`CURSO`
+Análise e Desenvolvimento de Sistemas
 
-`DISCIPLINA`
+Projeto: Desenvolvimento de uma Aplicação Interativa
 
 2°Semestre
 
