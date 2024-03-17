@@ -1,6 +1,10 @@
 # Introdução
+<div class="text-justify">
+Atualmente, a tecnologia vem trazendo cada vez mais comodidade para tarefas do dia a dia. No âmbito da saúde, isso não é diferente, tendo em vista a facilidade de divulgação de serviços dos profissionais da área da saúde por meio de aplicativos. 
+As pessoas idosas, por conta de sua saúde debilitada, tanto física quanto psicológica, acabam precisando de uma atenção à saúde redobrada. Contudo, de acordo com o Instituto Brasileiro de Geografia e Estatística (IBGE), em 2022 apenas 62,1% das pessoas com 60 anos ou mais faziam uso da internet. Assim, a exclusão digital dessa parcela mais velha da população acaba por afastá-los desses aplicativos que oferecem tanta praticidade para resolver problemas ligados à saúde.
+Sendo assim, se faz necessário um cuidado especial para com esse público vulnerável, criar soluções que os alcancem e ultrapassem a barreira da idade.
+ </div>
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
 
 ## Problema
 Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
